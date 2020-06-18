@@ -1,0 +1,30 @@
+.box-white {
+    background-color: #f3f3f3;
+
+}
+
+.box-yellow {
+    background-color: #f9e314;
+}
+
+.box-black {
+    background-color: #000000;
+
+}
+
+.box-blue {
+    background-color: #0c7ebd;
+}
+
+.box-red {
+    background-color: #f50f0f;
+}
+
+.row {
+    background-color: #484848;
+}
+
+.square {
+    height: 100px;
+    width:100%;
+}
